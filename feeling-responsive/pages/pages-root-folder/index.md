@@ -15,8 +15,8 @@ widget1:
 widget2:
   title: "Performing Ensembles"
   url: 'http://www.furrymusic.org/info/'
+  image: ACMB_2024_302_182.jpg
   text: '<em>Time to make some music!</em><br/>1. Marching Band :)<br/>2. Big Band.<br/>3. Furry Choir.<br/>4. Disco Band.<br/>5. etc ...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Furry Music History"
   url: 'https://github.com/Phlow/feeling-responsive'
