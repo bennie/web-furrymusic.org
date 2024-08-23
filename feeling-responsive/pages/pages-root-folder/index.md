@@ -10,12 +10,12 @@ header:
 widget1:
   title: "Social Groups"
   url: '/social/'
-  image: widget-ACMB-2024-300x182.jpg
+  image: widget-selfie-300x181.jpg
   text: 'Want to meet and chat with other music furs? Form a group? Record for each other online? Find out what is going on at cons? We have the info for you...'
 widget2:
   title: "Performing Ensembles"
   url: '/ensembles/'
-  image: widget-acjb2023-302x182.jpg
+  image: widget-ACMB-2024-302x182.jpg
   text: '<em>Time to make some music!</em><br/>1. Marching Band :)<br/>2. Big Band.<br/>3. Furry Choir.<br/>4. Disco Band.<br/>5. etc ...'
 widget3:
   title: "Furry Music History"
