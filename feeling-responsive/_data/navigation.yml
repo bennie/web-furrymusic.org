@@ -18,6 +18,8 @@
     url: "/ensembles/choir.html"
   - title: "Disco Band"
     url: "/ensembles/disco.html"
+  - title: "Orchestra"
+    url: "/ensembles/orchestra.html"
 
 - title: "Social"
   url: "/social/"

@@ -9,5 +9,8 @@ group :jekyll_plugins do
 end
 
 gem 'asciidoctor', '~> 1.5.4'
+gem 'bigdecimal'
 gem 'coderay', '1.1.1'
-
+gem 'base64'
+gem 'csv'
+gem 'logger'

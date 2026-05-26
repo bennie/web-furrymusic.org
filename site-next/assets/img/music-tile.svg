@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="160" viewBox="0 0 420 160">
+  <defs>
+    <style>
+      .staff { stroke: rgba(120, 110, 100, 0.28); stroke-width: 1.2; }
+      .note { fill: none; stroke: rgba(120, 110, 100, 0.25); stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
+      .ghost { fill: none; stroke: rgba(120, 110, 100, 0.18); stroke-width: 1.1; stroke-linecap: round; stroke-linejoin: round; }
+    </style>
+  </defs>
+
+  <rect width="420" height="160" fill="rgb(248, 242, 231)"/>
+
+  <g>
+    <line class="staff" x1="0" y1="34" x2="420" y2="34"/>
+    <line class="staff" x1="0" y1="42" x2="420" y2="42"/>
+    <line class="staff" x1="0" y1="50" x2="420" y2="50"/>
+    <line class="staff" x1="0" y1="58" x2="420" y2="58"/>
+    <line class="staff" x1="0" y1="66" x2="420" y2="66"/>
+  </g>
+
+  <g>
+    <line class="staff" x1="0" y1="102" x2="420" y2="102"/>
+    <line class="staff" x1="0" y1="110" x2="420" y2="110"/>
+    <line class="staff" x1="0" y1="118" x2="420" y2="118"/>
+    <line class="staff" x1="0" y1="126" x2="420" y2="126"/>
+    <line class="staff" x1="0" y1="134" x2="420" y2="134"/>
+  </g>
+
+  <g transform="translate(8 0)">
+    <path class="ghost" d="M20 18c6 7 7 13 5 20c-2 7-10 8-11 14c-1 6 6 11 12 8" />
+    <ellipse class="note" cx="33" cy="56" rx="7" ry="4.5" transform="rotate(-18 33 56)"/>
+    <path class="note" d="M39 54v-26" />
+    <path class="ghost" d="M39 30c7 3 10 9 10 14" />
+
+    <ellipse class="note" cx="70" cy="64" rx="7" ry="4.5" transform="rotate(-18 70 64)"/>
+    <path class="note" d="M76 62v-30" />
+    <path class="ghost" d="M76 36c5 1 10 5 12 9" />
+
+    <ellipse class="note" cx="103" cy="48" rx="7" ry="4.5" transform="rotate(-18 103 48)"/>
+    <path class="note" d="M109 46v-26" />
+
+    <path class="ghost" d="M128 22c9 1 11 11 4 16c-7 5-14 1-14-6c0-7 6-11 10-11" />
+
+    <ellipse class="note" cx="156" cy="60" rx="7" ry="4.5" transform="rotate(-18 156 60)"/>
+    <path class="note" d="M162 58v-28" />
+    <ellipse class="ghost" cx="186" cy="44" rx="6.5" ry="4" transform="rotate(-18 186 44)"/>
+    <path class="ghost" d="M192 42v-23" />
+
+    <path class="note" d="M211 40c6-6 13-8 19-5c4 2 5 6 2 9c-4 4-9 4-16 5c-10 2-14 7-13 13c1 6 9 10 16 8" />
+
+    <ellipse class="note" cx="262" cy="54" rx="7" ry="4.5" transform="rotate(-18 262 54)"/>
+    <path class="note" d="M268 52v-27" />
+    <ellipse class="ghost" cx="291" cy="64" rx="6.5" ry="4" transform="rotate(-18 291 64)"/>
+    <path class="ghost" d="M297 62v-21" />
+
+    <path class="ghost" d="M325 26c5 3 8 9 6 15c-3 7-12 9-13 15c-1 5 4 9 9 8" />
+    <ellipse class="note" cx="351" cy="47" rx="7" ry="4.5" transform="rotate(-18 351 47)"/>
+    <path class="note" d="M357 45v-25" />
+    <ellipse class="ghost" cx="385" cy="59" rx="6.5" ry="4" transform="rotate(-18 385 59)"/>
+    <path class="ghost" d="M391 57v-22" />
+  </g>
+
+  <g transform="translate(0 68)">
+    <path class="ghost" d="M9 20c5 2 8 6 8 11c0 6-5 9-10 10" />
+    <ellipse class="ghost" cx="29" cy="53" rx="6.5" ry="4" transform="rotate(-18 29 53)"/>
+    <path class="ghost" d="M35 51v-24" />
+
+    <ellipse class="note" cx="62" cy="45" rx="7" ry="4.5" transform="rotate(-18 62 45)"/>
+    <path class="note" d="M68 43v-28" />
+
+    <path class="ghost" d="M92 18c6 1 13 5 16 10" />
+    <ellipse class="ghost" cx="108" cy="58" rx="6.5" ry="4" transform="rotate(-18 108 58)"/>
+    <path class="ghost" d="M114 56v-27" />
+
+    <ellipse class="note" cx="146" cy="63" rx="7" ry="4.5" transform="rotate(-18 146 63)"/>
+    <path class="note" d="M152 61v-31" />
+    <path class="ghost" d="M152 34c6 2 10 6 12 10" />
+
+    <ellipse class="note" cx="190" cy="49" rx="7" ry="4.5" transform="rotate(-18 190 49)"/>
+    <path class="note" d="M196 47v-26" />
+    <ellipse class="ghost" cx="219" cy="56" rx="6.5" ry="4" transform="rotate(-18 219 56)"/>
+    <path class="ghost" d="M225 54v-21" />
+
+    <path class="note" d="M248 40c7 1 13 5 15 9c2 5-1 10-8 11c-8 2-14 4-15 10" />
+
+    <ellipse class="ghost" cx="287" cy="46" rx="6.5" ry="4" transform="rotate(-18 287 46)"/>
+    <path class="ghost" d="M293 44v-24" />
+    <ellipse class="note" cx="320" cy="61" rx="7" ry="4.5" transform="rotate(-18 320 61)"/>
+    <path class="note" d="M326 59v-30" />
+
+    <path class="ghost" d="M352 24c7 4 9 11 5 17c-4 6-13 7-15 12" />
+    <ellipse class="ghost" cx="384" cy="49" rx="6.5" ry="4" transform="rotate(-18 384 49)"/>
+    <path class="ghost" d="M390 47v-25" />
+  </g>
+</svg>
